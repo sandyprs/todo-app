@@ -1,0 +1,13 @@
+.TextClass{
+    font-size: 14px;
+    margin: 5px;
+}
+
+.ButtonClass{
+    background-color: aquamarine;
+    font-size: 14px;
+    margin: 3px;
+    padding: 3px;
+    border-radius: 5px;
+    width: 80px;
+}
